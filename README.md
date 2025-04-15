@@ -107,7 +107,7 @@ Os dados do sistema são salvos em **arquivos `.txt`**, garantindo que as inform
 
 Desenvolvido por **Vanderson Noleto**  
 📧 Email: vandersondbv7@gmail.com 
-🔗 GitHub: [https://github.com/seu-usuario](https://github.com/vannoleto)
+🔗 GitHub: [https://github.com/vannoleto](https://github.com/vannoleto)
 
 ---
 
